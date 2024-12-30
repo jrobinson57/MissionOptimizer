@@ -10,7 +10,7 @@ To enter the site, a user must have an existing login. These are created alongsi
 
 [Komalpreet Dhinju](https://github.com/kdhinju29) | SCRUM Master
 
-[Nicholas Lotierzo](https://github.com/lotier95)
+[Nicholas Lotierzo](https://github.com/lotier95) | Software Developer
 
 Frank Durkas | Software Developer
 
