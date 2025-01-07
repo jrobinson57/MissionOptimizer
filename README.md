@@ -27,5 +27,5 @@ As one of the team's software developers, I was tasked with managing the Azure d
 [Software_Engineering_Poster.pdf](https://github.com/user-attachments/files/18271753/Software_Engineering_Poster.pdf)
 
 
-*For the client's security, the project will not be available to the public.
+*For the client's security, the project files will not be available to the public.
 
